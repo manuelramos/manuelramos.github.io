@@ -1,3 +1,9 @@
+# Local development with docker
+
+```
+docker-compose up
+```
+
 # Project Structure
 
 
