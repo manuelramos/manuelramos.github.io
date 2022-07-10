@@ -2,6 +2,7 @@
 layaout: default
 ---
 
+<h3>Posts</h3>
 <ul>
   {% for post in site.posts %}
     <li>

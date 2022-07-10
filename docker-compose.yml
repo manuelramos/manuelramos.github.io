@@ -5,8 +5,9 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    command: jekyll serve --no-watch --trace
+    command: jekyll serve --incremental --livereload --force_polling
     volumes:
       - ./:/srv/jekyll
     ports:
       - 4000:4000
+      - 35729:35729
