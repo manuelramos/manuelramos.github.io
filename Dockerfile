@@ -1,4 +1,4 @@
-FROM jekyll/jekyll:pages
+FROM jekyll/jekyll:latest
 
-RUN gem install webrick
-RUN gem install jekyll-sass-converter
+RUN npm install postcss@latest tailwindcss@latest autoprefixer@latest cssnano@latest
+RUN bundle install
