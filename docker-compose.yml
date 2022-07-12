@@ -3,7 +3,7 @@ version: "3"
 services:
   app:
     image: jekyll/jekyll:latest
-    container_name: jekyll_my_blog
+    container_name: jekyll
     volumes:
       - ./:/srv/jekyll
     ports:
