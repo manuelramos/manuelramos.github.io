@@ -1,0 +1,4 @@
+baseURL = 'https://manuelr.me/'
+languageCode = 'en-us'
+title = 'ManuelR Site'
+theme = "blowfish"

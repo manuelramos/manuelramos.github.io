@@ -1,0 +1,5 @@
+Update themes
+
+```
+git submodule update --remote --merge
+```
