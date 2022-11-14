@@ -5,3 +5,8 @@ draft: false
 ---
 
 Welcome!
+
+
+Here I will share my thoughts and experiences about technology, programming, and other stuff.
+
+I hope you enjoy it!

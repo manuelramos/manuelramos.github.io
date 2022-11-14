@@ -1,4 +1,7 @@
-baseURL = 'https://manuelr.me/'
-languageCode = 'en-us'
-title = 'ManuelR Site'
-theme = "blowfish"
+baseURL = "http://manuelr.me"
+title = "ManuelR"
+theme = "paper"
+
+[params]
+  # color style
+  color = 'light'
