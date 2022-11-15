@@ -12,11 +12,6 @@ paginate = 10
     github = 'manuelramos'       # github.com/YOUR_GITHUB_ID
     rss = true                      # show rss icon with link
 
-    # home page profile
-    avatar = 'https://deno.land/logo.svg'       # Gravatar email or image url(e.g. "https://deno.land/logo.svg")
-    name = 'Manuel Ramos'
-    bio = 'Software Developer'
-
     # misc
     disableHLJS = true              # disable requesting highlight.js
     monoDarkIcon = true             # show monochrome dark mode icon
