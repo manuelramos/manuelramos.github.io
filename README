@@ -1,5 +1,2 @@
-Update themes
+# manuelramos.github.io
 
-```
-git submodule update --remote --merge
-```
