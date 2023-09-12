@@ -2,3 +2,15 @@ baseURL = 'https://manuelr.me/'
 languageCode = 'en-us'
 title = 'ManuelR'
 theme = 'ananke'
+enableRobotsTXT = true
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+
+[params]
+  description = 'Personal blog of Manuel Ramos'
+  author = 'Manuel Ramos'
+  github = 'https://gitub.com/manuelramos'
+  background_color_class = "bg-dark-gray"
+
+
+
